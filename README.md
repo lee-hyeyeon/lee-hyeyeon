@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HyeYeon&fontAlignY=40&fontSize=100&desc=(●'◡'●)&descAlignY=65&animation=twinkling)
-<div align="center">
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hyeyeon's&nbsp;GitHub&fontAlignY=40&fontSize=100&desc=Welcome&descAlignY=65&animation=twinkling)
+
+<div>
   <h3>🙋🏻‍♀️ 안녕하세요!</h3>
   풀스택 개발자를 꿈꾸는 이혜연입니다.
   <br><br>
