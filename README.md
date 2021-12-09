@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hyeyeon's&nbsp;GitHub&fontAlignY=40&fontSize=100&desc=Welcome!🎉&descAlignY=65&animation=twinkling)
 
 <div>
-  <h3>🙋🏻‍♀️ 안녕하세요!</h3>
-  풀스택 개발자를 꿈꾸는 이혜연입니다.
-  <br><br>
+<br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-hyeyeon%2Fhit-counter&count_bg=%23F1F4AA&title_bg=%2369CE64&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
@@ -21,7 +19,9 @@
 | **Version Control** | <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a> | 
 | **Servers** | <a href="#"><img src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white"/></a> |
 | **Databases** | <a href="#"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a> |
-| **Other** | <a href="#"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/></a> |
+| **Other** | <a href="#"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/></a>
+<br>
+<br>
 
 <!--
 #### **Languages**
