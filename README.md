@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hyeyeon's&nbsp;GitHub&fontAlignY=40&fontSize=100&desc=Welcome&descAlignY=65&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=300&section=header&text=Hyeyeon's&nbsp;GitHub&fontAlignY=40&fontSize=100&desc=Welcome!🎉&descAlignY=65&animation=twinkling)
 
 <div>
   <h3>🙋🏻‍♀️ 안녕하세요!</h3>
@@ -7,10 +7,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-hyeyeon%2Fhit-counter&count_bg=%23F1F4AA&title_bg=%2369CE64&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/lee-hyeyeon/github-readme-stats) 
 ![Hyeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyeyeon&show_icons=true&theme=vue)
-
-<br>
 <br>
 
   <h2>🛠 Tech Stack 🛠</h2>
@@ -62,4 +59,4 @@
 </div>
 
 	
-![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=e2e4e3&height=130)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=shark&color=gradient&height=130)
