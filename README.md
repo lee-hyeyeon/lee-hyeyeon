@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Hyeyeon's&nbsp;GitHub&fontAlignY=40&fontSize=100&desc=🎉&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=Hyeyeon's&nbsp;GitHub&fontAlignY=40&fontSize=100&desc=🎉&descAlignY=65&animation=fadeIn)
 
 <div>
 <br>
@@ -60,4 +60,4 @@
 </div>
 
 	
-![footer](https://capsule-render.vercel.app/api?section=footer&type=shark&color=gradient&height=130)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient&height=130)
