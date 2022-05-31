@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&text=Hyeyeon's&nbsp;GitHub&fontAlignY=40&fontSize=100&desc=🎉&descAlignY=65&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&animation=fadeIn)
 
 <div>
 <br>
