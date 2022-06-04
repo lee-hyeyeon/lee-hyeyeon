@@ -7,10 +7,11 @@
 ![lee-hyeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-hyeyeon&show_icons=true&theme=vue)
 <br>
 
+<br>
 <div align='center'>
   ![snake svg](https://github.com/lee-hyeyeon/lee-hyeyeon/blob/output/github-contribution-grid-snake.svg)
 </div>
-
+<br>
 
   <h2>Tech Stack</h2>
 
