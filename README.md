@@ -1,13 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=220&section=header&animation=fadeIn)
 
-  ![snake svg](https://github.com/lee-hyeyeon/lee-hyeyeon/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/lee-hyeyeon/lee-hyeyeon/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flee-hyeyeon%2Fhit-counter&count_bg=%23F1F4AA&title_bg=%2369CE64&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<br>
-![lee-hyeyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=lee-hyeyeon&show_icons=true&theme=vue)
-<br>
 
   <h2>Tech Stack</h2>
 
@@ -59,6 +56,5 @@
 -->
 </div>
 </div>
-
 	
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient&height=130)
