@@ -9,7 +9,7 @@
 
 <div align='center'>
   
-  ![snake svg](https://github.com/iamhoonpark/iamhoonpark/blob/output/github-contribution-grid-snake.svg)
+  ![snake svg](https://github.com/lee-hyeyeon/lee-hyeyeon/blob/output/github-contribution-grid-snake.svg)
 </div>
 <div align='center'>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/><!--
