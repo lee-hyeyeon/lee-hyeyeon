@@ -4,7 +4,7 @@
 
 ![snake svg](https://github.com/lee-hyeyeon/lee-hyeyeon/blob/output/github-contribution-grid-snake.svg)
 
-  <h2>Tech Stack</h2>
+  <!--<h2>Tech Stack</h2>
 
   <div class="stack">
 	  
@@ -20,7 +20,7 @@
 <br>
 <br>
 
-<!--
+
 #### **Languages**
 <a href="#"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>
@@ -51,8 +51,8 @@
 #### **Other**
 <a href="#"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white"/></a>
 <br>
--->
-</div>
+
+</div> -->
 </div>
 	
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=Waving&color=gradient&height=130)
